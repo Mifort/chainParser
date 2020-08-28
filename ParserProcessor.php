@@ -10,6 +10,7 @@ class ParserProcessor
 {
     public static function runCheckIntegrity($id)
     {
+        //check unit for all release dependencies
         if(self::setReleaseId($id)) {
             // Это и есть цепочка обязанностей
             $trackParser = new TrackParser();
