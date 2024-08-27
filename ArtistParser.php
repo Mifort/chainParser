@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mifort
- * Date: 01.02.18
- * Time: 12:50
- */
-
 
 /**
  * Class ArtistParser
